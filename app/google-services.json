@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "872069393861",
+    "firebase_url": "https://sharecipe-97497.firebaseio.com",
+    "project_id": "sharecipe-97497",
+    "storage_bucket": "sharecipe-97497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872069393861:android:096e591efa319050f9efac",
+        "android_client_info": {
+          "package_name": "com.example.sharecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872069393861-jeclk8f4fmtn6ecs3pa21u45joo2v2ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharecipe",
+            "certificate_hash": "b5385cfbab40929ab2ca4d66666a6ade82f60ba4"
+          }
+        },
+        {
+          "client_id": "872069393861-0cdqo5fstjqh3ub9bi9bcl1tchrf8n6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharecipe",
+            "certificate_hash": "e0e17e0824f09c85170ed8a21fd0e903d4ec7fdd"
+          }
+        },
+        {
+          "client_id": "872069393861-evod0p58moujsdh9rfdonp11v60eek50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiQxg7LEKri_UsHX9K_ycGN-8b-6Xxa1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872069393861-evod0p58moujsdh9rfdonp11v60eek50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
